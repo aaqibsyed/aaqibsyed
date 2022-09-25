@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aaqibsyed Aaqib Javed
+- 👀 I am a React developer/Frontend Developer 
+- 🌱 I have experience in HTML, CSS, Java Script, React.
+- I have knowledge and hands on in backend as well using node js, Express js, Mongo DB.
+- 📫 You can reach me at https://www.linkedin.com/in/aaqibjaved89/
