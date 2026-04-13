@@ -1,5 +1,51 @@
-- 👋 Hi, I’m @aaqibsyed Aaqib Javed
-- 👀 I am a React developer/Frontend Developer 
-- 🌱 I have experience in HTML, CSS, Java Script, React.
-- I have knowledge and hands on in backend as well using node js, Express js, Mongo DB.
-- 📫 You can reach me at https://www.linkedin.com/in/aaqibjaved89/
+# 👋 Hi, I'm Aaqib Javed
+
+💻 Frontend Developer | React Enthusiast
+🚀 Building real-world projects with modern web technologies
+
+---
+
+## 🛠 Tech Stack
+
+* ⚛️ React (Vite)
+* 🎨 Tailwind CSS
+* 🌐 JavaScript (ES6+)
+* 🔗 REST APIs
+* 🧠 Context API
+* 🧩 Git & GitHub
+* 🚀 Vercel Deployment
+
+---
+
+## 🚀 Featured Project
+
+### 🎬 NetMirror – Movie Browsing App
+
+🔗 Live: https://netmirror-psi.vercel.app/
+📂 Repo: https://github.com/aaqibsyed/netmirror
+
+✨ Features:
+
+* 🔍 Search with debouncing
+* 🎯 Advanced filtering (genre, rating, language)
+* ♾ Infinite scroll (Intersection Observer API)
+* ❤️ Favorites with localStorage persistence
+* 🎬 Trailer support
+* ⚡ Skeleton loading UI
+
+---
+
+## 📈 What I'm Currently Working On
+
+* Improving UI/UX
+* Learning advanced React patterns
+* Building scalable frontend apps
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/aaqibjaved89/
+* Email: syedaaqib89@gmail.com
+
+---
