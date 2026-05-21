@@ -124,21 +124,11 @@ Building autonomous AI systems capable of:
 
 Developing scalable and high-performance applications using modern frontend technologies and best engineering practices.
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaqibsyed&show_icons=true&theme=github_dark&cache_seconds=86400" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaqibsyed&layout=compact&theme=github_dark&cache_seconds=86400" />
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aaqibsyed&theme=github-dark-blue" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aaqibsyed&theme=tokyonight"/>
 </p>
 
 ---
