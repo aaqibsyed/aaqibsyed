@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Aaqib Javed
 
-### Frontend Engineer • React & Next.js Developer • AI Enthusiast
+### Software Developer • React & Next.js Developer • AI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Engineer;React+%7C+Next.js+%7C+TypeScript;Building+AI-Powered+Applications;Exploring+AI+Agents+and+Agentic+Workflows;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;React+%7C+Next.js+%7C+TypeScript;Building+AI-Powered+Applications;Exploring+AI+Agents+and+Agentic+Workflows;Always+Learning+Something+New" />
 
 </div>
 
@@ -126,11 +126,11 @@ Developing scalable and high-performance applications using modern frontend tech
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaqibsyed&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaqibsyed&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaqibsyed&show_icons=true&theme=github_dark&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaqibsyed&layout=compact&theme=github_dark&cache_seconds=86400" />
 </p>
 
 ---
