@@ -138,7 +138,7 @@ Developing scalable and high-performance applications using modern frontend tech
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aaqibsyed&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=aaqibsyed&theme=github-dark-blue" />
 </p>
 
 ---
