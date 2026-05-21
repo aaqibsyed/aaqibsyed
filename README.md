@@ -173,15 +173,17 @@ Developing scalable and high-performance applications using modern frontend tech
 
 <p align="left">
 <a href="https://github.com/aaqibsyed" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="48" />
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
+&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/aaqibjaved89" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+&nbsp;&nbsp;
 
 <a href="mailto:aaqibjaved422@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width="48"  />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"  />
 </a>
 </p>
 
